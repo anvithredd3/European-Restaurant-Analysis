@@ -39,4 +39,3 @@ We've used a mix of academic and non-academic references to guide our analysis a
 ---
 Our Google Colab Notebook Link: https://colab.research.google.com/drive/1yA6o3reGDgKXSh5XkUwIqo-oAvntIxs1?usp=sharing
 
-This README provides a structured overview of the project, making it accessible for newcomers and useful for contributors. Adjustments can be made to fit the project's evolving needs.
