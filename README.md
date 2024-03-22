@@ -15,6 +15,7 @@ Welcome to our project on European Restaurant Analysis! This project utilizes an
 ## Dataset
 
 Our analysis is based on data obtained from TripAdvisor regarding European restaurants. The dataset includes a wide range of information that we've used to draw insights about the restaurant landscape across Europe.
+Dataset: https://www.kaggle.com/datasets/stefanoleone992/tripadvisor-european-restaurants
 
 ## Tools Used
 
@@ -36,5 +37,6 @@ We welcome contributions! If you're interested in contributing to this project, 
 We've used a mix of academic and non-academic references to guide our analysis and ensure the robustness of our methods. For a detailed list of references, please see the References section of the notebook.
 
 ---
+Our Google Colab Notebook Link: https://colab.research.google.com/drive/1yA6o3reGDgKXSh5XkUwIqo-oAvntIxs1?usp=sharing
 
 This README provides a structured overview of the project, making it accessible for newcomers and useful for contributors. Adjustments can be made to fit the project's evolving needs.
